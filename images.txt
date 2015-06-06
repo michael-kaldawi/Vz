@@ -8,10 +8,5 @@
   {"title": "Image Three1", "url": "http://thewowstyle.com/wp-content/uploads/2015/01/nature-images.jpg"}
   {"title": "Image One2", "url": "http://upload.wikimedia.org/wikipedia/commons/3/36/Hopetoun_falls.jpg"},
   {"title": "Image Two2", "url": "http://feelgrafix.com/data_images/out/24/944669-nature.jpg"},
-  {"title": "Image Three2", "url": ""}
-  {"title": "Image One3", "url": ""},
-  {"title": "Image Two3", "url": ""},
-  {"title": "Image Three3", "url": ""}
-
  ]
 }
